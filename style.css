@@ -80,8 +80,8 @@ h1{
 
 @media (max-width:900px) {
     .message{
-        width: 380px;
-        height: 30px;
+        width: 330px;
+        height: 40px;
         padding: 20px;
         font-size: 18px;
     }
